@@ -49,7 +49,7 @@ function greetFriends(...friends:string[]){
 greetFriends('shabuj', 'rahat vai','Jhankar vai', 'fahad vai', 'persian')
 
 
-
+ 
 
 
 
