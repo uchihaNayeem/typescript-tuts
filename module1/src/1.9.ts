@@ -80,7 +80,7 @@ let multyNumber: MultiplyType = (num1, num2) => {
 let totalValue = multyNumber(12,12)
 console.log(totalValue)
 
-
+// the end
 
 
 
