@@ -16,5 +16,4 @@ let threeDataType = [1000, 'thousand'];
 let groupOfAgeNName = [
     ['olodama', 20, true],
     ['lasengan', 100, false],
-    ['lasengan', 100, true],
 ];
